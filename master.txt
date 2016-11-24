@@ -1,4 +1,5 @@
 master init
+fix bug
 create branch1
 branch1 第二次修改
 branch1 第三次修改
