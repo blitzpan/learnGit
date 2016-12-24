@@ -1,0 +1,2 @@
+master init
+fix bug 2
