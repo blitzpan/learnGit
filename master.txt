@@ -1,5 +1,5 @@
 master init
 fix bug
 create branch1
-branch1 µÚ¶þ´ÎÐÞ¸Ä
-branch1 µÚÈý´ÎÐÞ¸Ä
+branch1 ç¬¬äºŒæ¬¡ä¿®æ”¹
+branch1 ç¬¬ä¸‰æ¬¡ä¿®æ”¹
